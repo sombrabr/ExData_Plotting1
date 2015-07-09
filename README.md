@@ -74,6 +74,3 @@ power.
 ![plot4.png](plot4.png)
 
 Reference graph: [plot of chunk unnamed-chunk-5](figure/unnamed-chunk-5.png)
-
-
-
